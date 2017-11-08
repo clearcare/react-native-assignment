@@ -49,7 +49,7 @@ For apps with more advance designs, please visit **[NativeBase Market](https://m
 * The project must include
   *  A List of items
   * Detail view of each item
-    * Detail view should consist of an image, a title, and a description
+    * Detail view should consist of a minimum of an image, a title, and a description
   * Should be able to navigate between the list and detail view
   * Write tests where possible
 * Bonus Points
