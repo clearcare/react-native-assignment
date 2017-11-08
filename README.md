@@ -46,12 +46,12 @@ For apps with more advance designs, please visit **[NativeBase Market](https://m
 
 * Create a project that implements an API from here: https://github.com/toddmotto/public-apis
 * The project must include
-** A List of items
-*** List should paginate if greater than 50 items or lazy-load
-** Detail view of each item
-*** Detail view should consist of an image, a title, and a description
-** Should be able to navigate between the list and detail view
-** write tests where necessary
+ *  A List of items
+  * List should paginate if greater than 50 items or lazy-load
+ * Detail view of each item
+  * Detail view should consist of an image, a title, and a description
+ * Should be able to navigate between the list and detail view
+ * write tests where necessary
 * Bonus Points
-** Searching in the list
-** Additional views
+ * Searching in the list
+ * Additional views
