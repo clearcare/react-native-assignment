@@ -47,13 +47,13 @@ For apps with more advance designs, please visit **[NativeBase Market](https://m
 * Create a project that implements an API from here: https://github.com/toddmotto/public-apis
   * Examples: https://github.com/Giphy/GiphyAPI, https://docs.opendota.com, https://deckofcardsapi.com/ 
 * The project must include
-  *  A List of items
+  * A list of items
   * Detail view of each item
     * Detail view should consist of a minimum of an image, a title, and a description
   * Should be able to navigate between the list and detail view
   * Write tests where possible
 * Bonus Points
-  * Searching in the list
+  * Searching/filtering data in the list
   * List pagination if greater than 50 items or lazy-load
   * Additional views
   
