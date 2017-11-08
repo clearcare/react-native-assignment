@@ -20,9 +20,9 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone -b RN https://github.com/GeekyAnts/react-native-boilerplate-redux-typescript.git
+$ git clone -b RN https://github.com/clearcare/react-native-assignment.git
 
-$ cd react-native-boilerplate-redux-typescript/
+$ cd react-native-assignment/
 
 $ npm install
   or
